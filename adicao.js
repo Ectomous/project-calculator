@@ -1,5 +1,3 @@
-function adicao(a, b) {
+export default function adicao(a, b) {
   return a + b;
 }
-
-export default adicao;
