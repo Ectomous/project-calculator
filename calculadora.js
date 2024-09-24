@@ -1,7 +1,7 @@
-import adicao from "./adicao.js";
-import divisao from "./divisao.js";
-import subtracao from "./subtracao.js";
-import multiplicacao from "./multiplicacao.js";
+import adicao from "./operacoes/adicao.js";
+import divisao from "./operacoes/divisao.js";
+import subtracao from "./operacoes/subtracao.js";
+import multiplicacao from "./operacoes/multiplicacao.js";
 
 let resultadoAdicao = adicao(2, 5);
 let resultadoSubtracao = subtracao(5, 3);
